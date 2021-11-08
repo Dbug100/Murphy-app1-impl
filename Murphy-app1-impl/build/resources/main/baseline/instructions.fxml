@@ -12,12 +12,17 @@
             <Font size="17.0" />
          </font>
       </Text>
-      <Text layoutX="31.0" layoutY="195.0" strokeType="OUTSIDE" strokeWidth="0.0" text="To add an Item without a date simply type of the name or description of the task and select add event." wrappingWidth="538.13671875">
+      <Text layoutX="31.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="To add an Item without a date simply type of the name or description of the task and select add event." wrappingWidth="538.13671875">
          <font>
             <Font size="17.0" />
          </font>
       </Text>
       <Text layoutX="31.0" layoutY="44.0" strokeType="OUTSIDE" strokeWidth="0.0" text="To add an item with a due date type in the name or description of the task and select the calendar to select a date then select add event." wrappingWidth="538.13671875">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Text>
+      <Text layoutX="31.0" layoutY="172.0" strokeType="OUTSIDE" strokeWidth="0.0" text="To edit a task click edit task then double click the the task you want to edit. To submit changes press enter." wrappingWidth="538.13671875">
          <font>
             <Font size="17.0" />
          </font>
